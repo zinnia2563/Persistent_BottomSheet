@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Persistent_Bottomsheet</string>
+    <string name="demo">Persistent_Bottomsheet\n\n Demo text : there are two types of bottomsheet.AppBarLayout also requires a separate scrolling sibling in order to know when to scroll. The binding is done through the AppBarLayout.ScrollingViewBehavior behavior class, meaning that you should set your scrolling views behavior to be an instance of AppBarLayout.ScrollingViewBehavior. A string resource containing the full class name is available."</string>
+
+</resources>
